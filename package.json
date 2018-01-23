@@ -1,0 +1,10 @@
+{
+  "name": "sql-missing-table",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "dependencies": {
+    "bookshelf": "^0.12.1",
+    "knex": "^0.14.2",
+    "sqlite3": "^3.1.13"
+  }
+}
